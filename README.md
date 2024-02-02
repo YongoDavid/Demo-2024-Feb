@@ -8,3 +8,4 @@ Well there is alot to do this year and this month, wish me luck
 
 2-feb
 i have decided to spread my time and increase my work hours his month steping up from 3 to 5 hours daily to 8 hours daily , lets see how that goes
+also got my updates here i am going to atarting adding dates to my updates just incase i need to come back to something and need to remember the days i updated 
