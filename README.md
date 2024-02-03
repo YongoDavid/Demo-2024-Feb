@@ -15,3 +15,4 @@ its a new day lets get more work done and figure out the signup and loggin UI is
 login and signup still not working on UI only through API tesing from API, will just leave it that way and come back to it 
 now i will go back to study node.js and understand more about it.
 learning new things while diving deeper into node.js , learnt more about operating systems (os) and file systems (fs)
+and also a different way to import and export modules , using tthe destructuring way which will take some time to get used to 
