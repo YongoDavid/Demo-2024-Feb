@@ -11,4 +11,5 @@ i have decided to spread my time and increase my work hours his month steping up
 also got my updates here i am going to atarting adding dates to my updates just incase i need to come back to something and need to remember the days i updated 
 
 3-feb
-its a new day lets get more work done and figure out the signup and loggin UI issue with myy e-commerce site
+its a new day lets get more work done and figure out the signup and loggin UI issue with my e-commerce site
+login and signup still not working on UI only through API tesing from API, will just leave it that way and come back to it 
