@@ -13,3 +13,4 @@ also got my updates here i am going to atarting adding dates to my updates just 
 3-feb
 its a new day lets get more work done and figure out the signup and loggin UI issue with my e-commerce site
 login and signup still not working on UI only through API tesing from API, will just leave it that way and come back to it 
+now i will go back to study node.js and understand more about it
