@@ -14,4 +14,4 @@ also got my updates here i am going to atarting adding dates to my updates just 
 its a new day lets get more work done and figure out the signup and loggin UI issue with my e-commerce site
 login and signup still not working on UI only through API tesing from API, will just leave it that way and come back to it 
 now i will go back to study node.js and understand more about it.
-learning new things while diving deeper into node.js 
+learning new things while diving deeper into node.js , learnt more about operating systems (os) and file systems (fs)
