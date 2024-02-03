@@ -17,3 +17,4 @@ now i will go back to study node.js and understand more about it.
 learning new things while diving deeper into node.js , learnt more about operating systems (os) and file systems (fs)
 and also a different way to import and export modules , using tthe destructuring way which will take some time to get used to 
 learnt aomething new also called streams and buffers , also pipe which is in relation to these ttwo things  
+this is just a brief 
