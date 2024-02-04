@@ -20,3 +20,4 @@ learnt aomething new also called streams and buffers , also pipe which is in rel
 this is just a brief 
 
 4-feb
+not doing much today , just reviewing all my notes that i have taken 
