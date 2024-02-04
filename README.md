@@ -21,3 +21,4 @@ this is just a brief
 
 4-feb
 not doing much today , just reviewing all my notes that i have taken , both in my books and on my note pad 
+gsthering some strenght to begin my 8 hours again 
