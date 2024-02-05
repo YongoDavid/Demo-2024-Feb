@@ -26,4 +26,4 @@ gathering some strenght to begin my 8 hours again , lets go crazy ths new week b
 5-feb
 active  at 5am on my for my 8hour daily dose.
 refreshed on how to create servers with node and express and , i have been using node but extress seems much more better and easier ,even the syntax 
-also my nodemon finally running as it should , i was using the wrong syntax anyways , and now i know the right way to do it 
+also my nodemon finally running as it should , i was using the wrong syntax anyways , and now i know the right way to do it , which again makes restarting servers easier 
