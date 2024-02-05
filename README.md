@@ -24,4 +24,5 @@ not doing much today , just reviewing all my notes that i have taken , both in m
 gathering some strenght to begin my 8 hours again , lets go crazy ths new week because there wlnt be another week like this again 
 
 5-feb
-active  at 5am on my for my 8hour daily dose
+active  at 5am on my for my 8hour daily dose.
+refreshed on how to create servers with node and express and , i have been using node but extress seems much more better and easier ,even the syntax 
