@@ -29,3 +29,6 @@ refreshed on how to create servers with node and express and , i have been using
 also my nodemon finally running as it should , i was using the wrong syntax anyways , and now i know the right way to do it , which again makes restarting servers easier 
 did not know how to handle redirection , now i know how to in both node and express.
 the major thing to do now is practice , practice , practice , i can only get better by actuallly do it instead of just studing and knowing 
+
+6-feb
+another 8hour daily dose. 
