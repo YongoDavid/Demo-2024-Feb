@@ -37,3 +37,4 @@ another 8hour daily dose.
 learning about view engines , whidh allow me use javasctipt in html , i would say it is a bit better than html.
 it is helpful but i dont think it is required all the time , i might use it to build a full project soon without html and see how it goes
 the engine view i have use so far is (ejs) there are three others like pug , handlebers etc.
+also leant parcials 
