@@ -32,3 +32,5 @@ the major thing to do now is practice , practice , practice , i can only get bet
 
 6-feb
 another 8hour daily dose. 
+
+7-feb 
