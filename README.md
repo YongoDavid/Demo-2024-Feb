@@ -34,3 +34,4 @@ the major thing to do now is practice , practice , practice , i can only get bet
 another 8hour daily dose. 
 
 7-feb 
+learning about view engines , whidh allow me use javasctipt in html , i would say it is a bit better than html.
