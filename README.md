@@ -43,4 +43,4 @@ also learnt partials
 learnt about middlewares , they are codes that run through req ,and response , reguardless of thier routes 
 you have to be careful when using middlewares m because they run from top to buttom.
 ALso learnt about thrid party middleswares , they are expternal middle packages that help us carry out certian functions , examples validation , logging and many others.
-learnt about "static" systems that help us explicitly set out static files and images so ouur server can read them and use them.
+learnt about "static" function that help us explicitly set out static files and images so our server can read them and use them.
