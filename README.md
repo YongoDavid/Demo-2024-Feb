@@ -42,3 +42,4 @@ also learnt partials
 8-feb 
 learnt about middlewares , they are codes that run through req ,and response , reguardless of thier routes 
 you have to be careful when using middlewares m because they run from top to buttom.
+ALso learnt about thrid party middleswares , they are expternal middle packages that help us carry out certian functions , examples validation , logging and many others 
