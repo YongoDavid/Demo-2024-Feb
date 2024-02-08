@@ -34,7 +34,9 @@ the major thing to do now is practice , practice , practice , i can only get bet
 another 8hour daily dose. 
 
 7-feb 
-learning about view engines , whidh allow me use javasctipt in html , i would say it is a bit better than html.
+learning about view engines , which allow me use javasctipt in html , i would say it is a bit better than html.
 it is helpful but i dont think it is required all the time , i might use it to build a full project soon without html and see how it goes
 the engine view i have use so far is (ejs) there are three others like pug , handlebers etc.
-also leant parcials 
+also learnt partials
+
+8-feb 
