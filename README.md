@@ -41,3 +41,4 @@ also learnt partials
 
 8-feb 
 learnt about middlewares , they are codes that run through req ,and response , reguardless of thier routes 
+you have to be careful when using middlewares m because they run from top to buttom.
