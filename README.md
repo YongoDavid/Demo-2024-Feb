@@ -40,3 +40,4 @@ the engine view i have use so far is (ejs) there are three others like pug , han
 also learnt partials
 
 8-feb 
+learnt about middlewares , they are codes that run through req ,and response , reguardless of thier routes 
