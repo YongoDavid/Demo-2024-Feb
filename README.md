@@ -46,3 +46,4 @@ ALso learnt about thrid party middleswares , they are expternal middle packages 
 learnt about "static" function that help us explicitly set out static files and images so our server can read them and use them.
 
 9-feb
+learning a new databse (MongooDB) , it is a Non SQlL database 
