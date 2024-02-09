@@ -49,3 +49,4 @@ learnt about "static" function that help us explicitly set out static files and 
 learning a new databse (MongooDB) , it is a Non SQlL database.
 it is a bit similar but different from MySQL database , it has different terminologies and and concepts behind it.
 Some if the terminologies behind it are , Collections , Schemas , and Models.
+One of the reasons i am enjoying working with MongoDB is , it is the first Cloud based Databse i am working with (MongoDB Atlas).
