@@ -54,3 +54,4 @@ When working with MongoDB there is 3rd party package we work with and it is call
 
 10-feb
 MongoDB going well so far , been practicing and trying to use it often 
+i dont need to mater the syntax of code because there is so much to learn , just understand the syntax and the basics 
