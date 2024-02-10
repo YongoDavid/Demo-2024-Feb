@@ -53,3 +53,4 @@ One of the reasons i am enjoying working with MongoDB is , it is the first Cloud
 When working with MongoDB there is 3rd party package we work with and it is called mongoose (funny right) now lets practice. 
 
 10-feb
+MongoDB going well so far , been practicing and trying to use it often 
