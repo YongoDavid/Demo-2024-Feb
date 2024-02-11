@@ -60,3 +60,4 @@ so each new techonolgy i learn i just need too practice it often and it will sti
 practice makes perfect , still need to figure out why my data is not sending to the right collection / database on my cloud database.
 
 11-feb
+taking a little break today , to gather a stregnth for another 8hr daily dose.
