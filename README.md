@@ -61,3 +61,4 @@ practice makes perfect , still need to figure out why my data is not sending to 
 
 11-feb
 taking a little break today , to gather a stregnth for another 8hr daily dose.
+still need to practice some more , especially on post , put and delete 
