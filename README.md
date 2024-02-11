@@ -65,3 +65,5 @@ still need to practice some more , especially on post , put and delete
 having some issues with Route prams , which means i have to go back and practice it more and review it.
 tried runing some request with route params but there was an error , i need to look at what that bug is and fix it.
 This is all part iff the game , the complicated things just make me stronger.
+
+KEEP GOING DONT STOP!!!
