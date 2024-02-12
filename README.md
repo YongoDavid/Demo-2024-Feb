@@ -72,3 +72,4 @@ KEEP GOING DONT STOP!!!
 new weeklets goooo!!!
 starting by reviewing all i have done so far then after i will handle any issues i am facing.
 some if the issues i have mentioned earlier.
+fixed the error with my Route params , just need to practice more so i get a hang of it 
