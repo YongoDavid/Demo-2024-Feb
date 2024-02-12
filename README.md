@@ -70,3 +70,4 @@ KEEP GOING DONT STOP!!!
 
 12-feb
 new weeklets goooo!!!
+starting by reviewing all i have done so far then after i will handle any issues i am facing.
