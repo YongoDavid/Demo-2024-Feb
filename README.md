@@ -74,4 +74,6 @@ starting by reviewing all i have done so far then after i will handle any issues
 some if the issues i have mentioned earlier.
 fixed the error with my Route params , just need to practice more so i get a hang of it.
 loll sometimes developing is like going from one hard thing to another , crazy.
-i need to go back and look at how to handle delete request from the front-end , passing it into a featch API function then handle it again from the back-end 
+i need to go back and look at how to handle delete request from the front-end , passing it into a featch API function then handle it again from the back-end.
+
+13-feb
