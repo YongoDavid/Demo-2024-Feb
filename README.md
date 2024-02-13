@@ -77,3 +77,4 @@ loll sometimes developing is like going from one hard thing to another , crazy.
 i need to go back and look at how to handle delete request from the front-end , passing it into a featch API function then handle it again from the back-end.
 
 13-feb
+more practice !!
