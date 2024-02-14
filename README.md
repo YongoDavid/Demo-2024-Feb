@@ -87,3 +87,4 @@ practice !!!!
 practice !!!!
 practice !!!
 IF IT WAS EASY EVERYONE WILL BE DOING IT!!
+Undersstand the basics of code and impliment it in different ways 
