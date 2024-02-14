@@ -83,3 +83,4 @@ now its time to practice more using everything i have learnt soo far , improve w
 Constant practice and building is the only way things will stay in my head lol.
 
 14-feb
+practice !!!! , 
