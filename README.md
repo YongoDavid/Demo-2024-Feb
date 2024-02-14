@@ -86,3 +86,4 @@ Constant practice and building is the only way things will stay in my head lol.
 practice !!!!
 practice !!!!
 practice !!!
+IF IT WAS EASY EVERYONE WILL BE DOING IT!!
