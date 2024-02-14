@@ -41,30 +41,30 @@ also learnt partials
 
 8-feb 
 learnt about middlewares , they are codes that run through req ,and response , reguardless of thier routes 
-you have to be careful when using middlewares m because they run from top to buttom.
-ALso learnt about thrid party middleswares , they are expternal middle packages that help us carry out certian functions , examples validation , logging and many others.
+you have to be careful when using middlewares because they run from top to buttom.
+Also learnt about 3rd party middleswares , they are external middle packages that help us carry out certian functions , examples validation , logging and many others.
 learnt about "static" function that help us explicitly set out static files and images so our server can read them and use them.
 
 9-feb
 learning a new databse (MongooDB) , it is a Non SQlL database.
 it is a bit similar but different from MySQL database , it has different terminologies and and concepts behind it.
-Some if the terminologies behind it are , Collections , Schemas , and Models.
+Some of the terminologies behind it are , Collections , Schemas , and Models.
 One of the reasons i am enjoying working with MongoDB is , it is the first Cloud based Databse i am working with (MongoDB Atlas).
 When working with MongoDB there is 3rd party package we work with and it is called mongoose (funny right) now lets practice. 
 
 10-feb
 MongoDB going well so far , been practicing and trying to use it often 
-i dont need to mater the syntax of code because there is so much to learn , just understand the syntax and the basics 
+i dont need to master the syntax of code because there is so much to learn , just understand the syntax and the basics 
 i will work with soo many new technologies so trying to know every syntax would be stressful
 so each new techonolgy i learn i just need too practice it often and it will stick then understand the basics main function of how it works and its basics. 
 practice makes perfect , still need to figure out why my data is not sending to the right collection / database on my cloud database.
 
 11-feb
-taking a little break today , to gather a stregnth for another 8hr daily dose.
+taking a little break today , to gather a strenght for another 8hr daily dose.
 still need to practice some more , especially on post , put and delete 
 having some issues with Route prams , which means i have to go back and practice it more and review it.
 tried runing some request with route params but there was an error , i need to look at what that bug is and fix it.
-This is all part iff the game , the complicated things just make me stronger.
+This is all part of the game , the complicated things just make me stronger.
 
 KEEP GOING DONT STOP!!!
 
