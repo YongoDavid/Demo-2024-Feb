@@ -88,4 +88,4 @@ practice !!!!
 practice !!!
 IF IT WAS EASY EVERYONE WILL BE DOING IT!!
 Undersstand the basics of code and impliment it in different ways.
-i need to build more let my workk speak for itself that way people will know what i can do 
+i need to build more let my workk speak for itself that way people will know what i can do.
