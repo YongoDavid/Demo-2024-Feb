@@ -21,7 +21,7 @@ this is just a brief.
 
 4-feb
 not doing much today , just reviewing all my notes that i have taken , both in my books and on my note pad 
-gathering some strenght to begin my 8 hours again , lets go crazy ths new week because there wlnt be another week like this again. 
+gathering some strenght to begin my 8 hours again , lets go crazy this new week because there wont be another week like this again. 
 
 5-feb
 active  at 5am on my for my 8hour daily dose.
