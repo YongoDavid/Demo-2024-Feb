@@ -91,5 +91,6 @@ Undersstand the basics of code and impliment it in different ways.
 i need to build more let my workk speak for itself that way people will know what i can do.
 
 15-feb 
-Another day oof practice.
+Another day of practice.
 On another 8hr dose 
+crazy day still putting some hours in 
