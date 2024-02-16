@@ -97,4 +97,4 @@ crazy day still putting some hours in.
 Having little issues with my handers View engine , need to figure it out soon because it is slowing me down , but i am learning in the process of the struggle.
 
 16-feb
-
+Review my code on the SAFETY-AID and find out why my index.ejs file is not working 
