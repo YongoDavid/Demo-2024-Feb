@@ -98,3 +98,4 @@ Having little issues with my handers View engine , need to figure it out soon be
 
 16-feb
 Review my code on the SAFETY-AID and find out why my index.ejs file is not working 
+sometimes code just really annoys the shit out of me , expeciiallyy when trying to figure things out and ut is not working 
