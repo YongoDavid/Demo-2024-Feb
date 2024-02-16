@@ -97,5 +97,6 @@ crazy day still putting some hours in.
 Having little issues with my handers View engine , need to figure it out soon because it is slowing me down , but i am learning in the process of the struggle.
 
 16-feb
-Review my code on the SAFETY-AID and find out why my index.ejs file is not working 
-sometimes code just really annoys the shit out of me , expeciiallyy when trying to figure things out and ut is not working 
+Review my code on the SAFETY-AID and find out why my index.ejs file is not working. 
+sometimes code just really annoys the shit out of me , expeciially when trying to figure things out and ut is not working.
+Also debugging is very annoying.
