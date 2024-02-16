@@ -94,4 +94,7 @@ i need to build more let my workk speak for itself that way people will know wha
 Another day of practice.
 On another 8hr dose.
 crazy day still putting some hours in.
-Having little issues with my handers View engine , need to figure it out soon because it is slowing me down , but i am learning in the process of the struggle 
+Having little issues with my handers View engine , need to figure it out soon because it is slowing me down , but i am learning in the process of the struggle.
+
+16-feb
+
