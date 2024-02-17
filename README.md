@@ -104,3 +104,4 @@ But this is the life , have to keep going and doing hard things.
 
 17-feb
 Another day another dose , lets gooo!
+still on express , trying to put more practice in and build something so it sticks.
