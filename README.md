@@ -101,3 +101,5 @@ Review my code on the SAFETY-AID and find out why my index.ejs file is not worki
 sometimes code just really annoys the shit out of me , expeciially when trying to figure things out and ut is not working.
 Also debugging is very annoying.
 But this is the life , have to keep going and doing hard things.
+
+17-feb
