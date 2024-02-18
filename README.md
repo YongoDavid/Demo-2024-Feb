@@ -107,3 +107,4 @@ Another day another dose , lets gooo!
 still on express , trying to put more practice in and build something so it sticks.
 
 18-feb
+trying to set up and make sure all basic servers for all my works are set up and working
