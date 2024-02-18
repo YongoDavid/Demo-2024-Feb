@@ -110,3 +110,4 @@ still on express , trying to put more practice in and build something so it stic
 trying to set up and make sure all basic servers for all my works are set up and working.
 not really doing much today just light work and then just chill and prepare for the new weeks daily dose.
 All server for all my projectss working now. might host the servers or maybe not.
+Next is to setup mobile screens for all my projects because i only have laptop screens setup.
