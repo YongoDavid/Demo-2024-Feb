@@ -113,4 +113,4 @@ All server for all my projectss working now. might host the servers or maybe not
 Next is to setup mobile screens for all my projects because i only have laptop screens setup.
 
 19-feb
-new week new 8hr dose .
+new week new 8hr daily dose .
