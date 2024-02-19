@@ -115,3 +115,4 @@ Next is to setup mobile screens for all my projects because i only have laptop s
 19-feb
 new week new 8hr daily dose .
 keep going , dont stop , it will get hard but you just cant STOP!!
+cleared all the files to the SAFETY-AID project.
