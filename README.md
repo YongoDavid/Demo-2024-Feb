@@ -122,4 +122,5 @@ For now the main tax of this week is to build my portfolio. by or before the end
 20th-feb
 another day another dose.
 now lets create all the files of the safety project again  , and try not to run into any issue again.
-SAFETY-AID seems to be working well , all data is showing from database
+SAFETY-AID seems to be working well , all data is showing from database.
+The basuc routes and logic are working just fine.
