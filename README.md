@@ -118,3 +118,6 @@ keep going , dont stop , it will get hard but you just cant STOP!!
 cleared all the files to the SAFETY-AID project.
 There were issues and i could not trace it , thank God the codebase is not large , i can restart it when i am ready.
 For now the main tax of this week is to build my portfolio. by or before the end of the week i should be done with my portfolio.
+
+20th-feb
+another day another dose.
