@@ -129,3 +129,4 @@ The basuc routes and logic are working just fine.
 pulling an all night today , a bit different from my normal daily plans.
 need to clean up some work to show a optential client.
 since my portfolio isnt ready i need to clean up some websites i have done already and send it ti him.
+Sooo lets goooo!!!
