@@ -131,4 +131,5 @@ need to clean up some work to show a optential client.
 since my portfolio isnt ready i need to clean up some websites i have done already and send it to him.
 Sooo lets goooo!!!
 still havent finished my moobile desins , its taking alot of time and a bit complex.
-i dont even know which one is better anymore , designing for mobille first then laptop after
+i dont even know which one is better anymore , designing for mobille first then laptop after,
+or desiging for latop then scaling down to mobile.
