@@ -138,3 +138,4 @@ or desiging for latop then scaling down to mobile.
 aother dayy , another dose.
 go HARD or go HOME.
 round 1 done , see you later in the day.
+GRITCH mobile desgin coming together well , it is has stopped being annoying lol
