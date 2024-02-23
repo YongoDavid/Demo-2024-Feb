@@ -141,3 +141,4 @@ round 1 done , see you later in the day.
 GRITCH mobile desgin coming together well , it is has stopped being annoying lol.
 
 23-feb
+Another daily 8hr dose.
