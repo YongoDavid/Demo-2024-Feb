@@ -144,3 +144,5 @@ GRITCH mobile desgin coming together well , it is has stopped being annoying lol
 Another daily 8hr dose.
 portfolio almost complete.
 just a few more touches and after make it responsive for mobile screen.
+
+24-feb
