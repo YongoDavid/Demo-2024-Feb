@@ -149,3 +149,4 @@ just a few more touches and after make it responsive for mobile screen.
 portfolio still in progress.
 
 25-feb
+nor doing too much today.
