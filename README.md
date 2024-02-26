@@ -154,5 +154,6 @@ Resting so i can get ready for anoother 8 hour dose for the new week.
 Starting my first client project this new week , its going to be a greate one.
 
 25-feb
-New week , its time to put in moore 8 hours dose.
+New week , its time to put in more 8 hours dose.
 New project for a clinet on the way.
+By the end of this week i should be done with a simple front end prototype too show the clinent.
