@@ -149,6 +149,9 @@ just a few more touches and after make it responsive for mobile screen.
 portfolio still in progress.
 
 25-feb
-nor doing too much today.
+not doing too much today.
 Resting so i can get ready for anoother 8 hour dose for the new week.
-Starting myy first client project this new week , its going to be a greate one.
+Starting my first client project this new week , its going to be a greate one.
+
+25-feb
+New week , its time to put in moore 8 hours dose.
