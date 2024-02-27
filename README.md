@@ -162,3 +162,5 @@ By the end of this week i should be done with a simple front end prototype too s
 New day new 8 hour dose.
 Starting to work on the uderika health web-app.
 Still looking for desgin inspiration , tryying diffferent designs to see which of them will suit the project.
+
+27-feb
