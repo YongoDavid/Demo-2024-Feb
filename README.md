@@ -160,3 +160,4 @@ By the end of this week i should be done with a simple front end prototype too s
 
 26-feb
 New day new 8 hour dose.
+Starting to work on the uderika health web-app.
