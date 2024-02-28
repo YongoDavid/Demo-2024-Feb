@@ -166,3 +166,5 @@ Still looking for desgin inspiration , tryying diffferent designs to see which o
 27-feb
 uderika project going well.
 The prototype is 80% complete.
+
+28-feb
