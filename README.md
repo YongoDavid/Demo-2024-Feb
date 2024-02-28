@@ -171,3 +171,4 @@ The prototype is 80% complete.
 Still on the uderika project and its going well 
 the front-end looks good , for a single page landing page.
 Uderika file are ready and the protoype if set for hosting.
+Uderika prototype hosted and submitted.
