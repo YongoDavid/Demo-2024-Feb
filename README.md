@@ -177,3 +177,5 @@ Uderika prototype hosted and submitted.
 Wow already the last day of the month febuary 2024.
 Did alot this month , from MongoDB atlas to start two new projects.
 One personal project and another clinet project which is going well so far.
+Build my portffolio and its just as simple as i want it to be.
+And i completed my daily dose of 8 hours without missing any day only resting days which is sunday.
